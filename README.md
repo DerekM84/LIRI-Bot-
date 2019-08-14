@@ -16,15 +16,11 @@ Try it for yourself! e.g. " node Liri.js spotify 'song name' "
 
 ![Image](./images/Liri-Demo-1.png "Liri Demo #1");
 
-![Image](./images/Liri-Demo-2.png "Liri Demo #2");
+![Image](./images/Liri-Demo-4.png "Liri Demo #2");
 
-![Image](./images/Liri-Demo-3.png "Liri Demo #3");
+![Image](./images/Liri-Demo-5.png "Liri Demo #3");
 
-![Image](./images/Liri-Demo-4.png "Liri Demo #4");
-
-![Image](./images/Liri-Demo-5.png "Liri Demo #5");
-
-![Image](./images/Liri-Demo-6.png "Liri Demo #6");
+![Image](./images/Liri-Demo-6.png "Liri Demo #4");
 
 ![Movie](./Movie/Liri-assignment.mov "LIRI-BOT in action: Movie Capture");
 
