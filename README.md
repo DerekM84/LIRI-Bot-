@@ -8,13 +8,12 @@ The user can run the app and enter a command followed by their desired search.
 LIRI-BOT will perform the task and return information based on the input. There are 3-4 options for available commands. LIRI can use the API's for Spotify, BandsInTown, and OMDB.
 
 Technologies Used
-⋅⋅* 
-1.Node.js
-2.Javascript.
-1.Axios
-2.Moment
-3.FS
-4.API calls
+⋅⋅* Node.js
+⋅⋅* Javascript.
+⋅⋅* Axios
+⋅⋅* Moment
+⋅⋅* FS
+⋅⋅* API calls
 
 <!-- Technologies including node extensions like Axios, Moment, and FS allow LIRI to make API calls, read/write misc. files, and convert time/date formatting to a user friendly display.   -->
 
@@ -22,7 +21,7 @@ I formatted LIRI's responses to appear in the terminal window, and to be readabl
 
 ## Try it for yourself! e.g. " node Liri.js spotify 'song name' "
 
-[![Movie](https://youtu.be/3T6yXFYliQQ/0.jpg)](https://youtu.be/3T6yXFYliQQ);
+[![Link to YouTube Hosted Video](./images/Liri-Demo-6.png)](https://youtu.be/3T6yXFYliQQ);
 
 ![Image](./images/Liri-Demo-1.png "Liri Demo #1");
 
