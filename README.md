@@ -21,8 +21,10 @@ I formatted LIRI's responses to appear in the terminal window, and to be readabl
 
 ## Try it for yourself! e.g. " node Liri.js spotify 'song name' "
 
+# Click this Image to check out the video demo on youtube!
 [![Link to YouTube Hosted Video](./images/Liri-Demo-6.png)](https://youtu.be/3T6yXFYliQQ);
 
+### Related images for quick reference 
 ![Image](./images/Liri-Demo-1.png "Liri Demo #1");
 
 ![Image](./images/Liri-Demo-4.png "Liri Demo #2");
